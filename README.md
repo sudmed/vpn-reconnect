@@ -1,5 +1,5 @@
 # vpn-reconnect
-Connect and reconnect your VPN-connection (for Windows)
+Connect and reconnect your VPN-connection for Windows / Подключение и переподключение VPN-соединения для Windows
 
 1. Создать VPN-подключение (или несколько, если пользователям требуются разные VPN-подключения).
 2. Скрипт и файл cmdow.exe поместить в одну папку. Cmdow.exe - оперсорсная консольная утилита управления окнами Windows (https://ritchielawrence.github.io/cmdow/), в данном скрипте скрывает окно CMD, чтобы оно не отвлекало пользователя.
